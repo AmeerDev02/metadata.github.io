@@ -6,6 +6,10 @@
     "windows-x86_64": {
       "url": "https://AmeerDev02.github.io/windows-builder/releases/sealine-vessels_0.1.1_x64-setup.exe",
       "signature": "PASTE_SIG_CONTENT_HERE"
+    },
+    "darwin-aarch64": {
+      "url": "https://AmeerDev02.github.io/windows-builder/releases/sealine-vessels_0.1.1_x64-setup.exe",
+      "signature": "PASTE_SIG_CONTENT_HERE"
     }
   }
 }
