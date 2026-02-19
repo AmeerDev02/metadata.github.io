@@ -1,0 +1,11 @@
+{
+  "version": "0.1.1",
+  "notes": "### Changelog\n- Fixed sync crash on startup\n- Improved update check reliability\n- Minor UI polish in Software Update page\n\nFull changelog: https://AmeerDev02.github.io/windows-builder/CHANGELOG.md",
+  "pub_date": "2026-02-19T18:20:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://AmeerDev02.github.io/windows-builder/releases/sealine-vessels_0.1.1_x64-setup.exe",
+      "signature": "PASTE_SIG_CONTENT_HERE"
+    }
+  }
+}
