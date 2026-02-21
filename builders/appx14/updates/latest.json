@@ -1,11 +1,11 @@
 {
-  "version": "0.1.8",
+  "version": "0.2.2",
   "notes": "### Changelog\n- MOCK Fixed sync crash on startup\n- Improved update check reliability\n- Minor UI polish in Software Update page\n\nFull changelog: https://AmeerDev02.github.io/windows-builder/CHANGELOG.md",
   "pub_date": "2026-02-19T18:20:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://ameerdev02.github.io/metadata.github.io/builders/appx14/updates/sealine-vessels_0.1.8_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUW40emE5ZzFIKzVnNzgxeisxbSs5RERBTEQ1dUFLNE9qSFFRa1l5OE52K1ora3VvVnUwYngyL21YRysyanhlcE1ralZseGlYTmJYVFNHWGFGeE9RUk9Gc2lKRGYvQ1FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNTE2NDc2CWZpbGU6c2VhbGluZS12ZXNzZWxzXzAuMS44X3g2NC1zZXR1cC5leGUKejBSTWNwNmkxdnJFWjVSZ2s1OVhiNlpqcG9HYm4ydUhTQXBOUk5ZV09zcWRsVTlQdFkzY2w4aktCVzJhZis0SnJxUUFBaWUxM0RHdVpmRFdwTGRVQ1E9PQo="
+      "url": "https://ameerdev02.github.io/metadata.github.io/builders/appx14/updates/sealine-vessels_0.2.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRUW40emE5ZzFIKzNhZnFjUHhSMmxRcUw3QUIvc1hOWXRIQVQvcUVPS2poT1N6dWtwaUJDY3JlTW1tNEJYZlFvb1d1L1h3UHNPT1YxMnl6bXhPR2RzMGtFdHNmUlErN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzcxNzExOTYzCWZpbGU6c2VhbGluZS12ZXNzZWxzXzAuMi4yX3g2NC1zZXR1cC5leGUKNXhwejZESk1CRVEyZk82YnRneXNnZTFIQWpRYys1NFIvVEhOTHdiYlFZVFNyMFdZS2RGUmlMWHdQcHFHby9KRlgzcDVxY004L1BaczRIaWJXZkd3QXc9PQo="
     }
   }
 }
